@@ -1,9 +1,9 @@
-#📘Week 2: Linear Regression with Multiple Variables
-##🔍Course: Supervised Machine Learning - Regression and Classification
+# 📘Week 2: Linear Regression with Multiple Variables
+## 🔍Course: Supervised Machine Learning - Regression and Classification
 Instructor: Andrew Ng
 Platform: Coursera (via DeepLearning.AI)
 
-###🧠Topics Covered:
+### 🧠Topics Covered:
 
 - Multiple Features (Multivariate Linear Regression)
 
@@ -17,7 +17,7 @@ Platform: Coursera (via DeepLearning.AI)
 
 - Gradient Descent with multiple variables
 
-###📈Key Concepts:
+### 📈Key Concepts:
 
 - Multivariable Linear Regression: Extending linear regression to use multiple features for better prediction accuracy.
 
@@ -31,7 +31,7 @@ Platform: Coursera (via DeepLearning.AI)
 
 - Vectorization: Using matrix operations to optimize computations, especially for large datasets.
 
-###💻What I Did:
+### 💻What I Did:
 
 - Implemented multivariable linear regression from scratch
 
@@ -41,7 +41,7 @@ Platform: Coursera (via DeepLearning.AI)
 
 - Compared model performance with and without feature scaling
 
-###🔧Tools & Skills Used:
+### 🔧Tools & Skills Used:
 
 - Python
 
