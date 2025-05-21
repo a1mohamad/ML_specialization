@@ -1,11 +1,11 @@
-📘 # Week 1: Introduction to Supervised Learning
+# 📘 Week 1: Introduction to Supervised Learning
 🔍 Course: Supervised Machine Learning - Regression and Classification
 Instructor: Andrew Ng
 Platform: Coursera (via DeepLearning.AI)
 
-🧠 ## Topics Covered
+## 🧠 Topics Covered
 
-### What is Machine Learning?
+- What is Machine Learning?
 
 - Types of Machine Learning: Supervised vs Unsupervised
 
@@ -21,7 +21,7 @@ Platform: Coursera (via DeepLearning.AI)
 
 - Linear Regression with One Variable
 
-📈 ## Key Concepts
+## 📈 Key Concepts
 
 - Supervised Learning: Learning from labeled data to make predictions.
 
@@ -31,7 +31,7 @@ Platform: Coursera (via DeepLearning.AI)
 
 - Gradient Descent: Optimization algorithm to minimize the cost function.
 
-💻 What I Did
+## 💻 What I Did
 
 - Watched all lectures
 
@@ -44,7 +44,7 @@ Platform: Coursera (via DeepLearning.AI)
 	- Cost function and gradient descent in Python
 
 
-🔧 ## Tools & Skills Used
+## 🔧 Tools & Skills Used
 
 - Python
 
